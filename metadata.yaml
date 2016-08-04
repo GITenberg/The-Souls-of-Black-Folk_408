@@ -1,0 +1,44 @@
+_repo: The-Souls-of-Black-Folk_408
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Du Bois, W. E. B. (William Edward Burghardt)
+    aliases:
+    - Bois, W. E. B. Du
+    - DuBois, W. E. Burghardt
+    - DuBois, W. E. B. (William Edward Burghardt)
+    birthdate: 1868
+    deathdate: 1963
+    gutenberg_agent_id: '226'
+    url: http://www.gutenberg.org/2009/agents/226
+    wikipedia: http://en.wikipedia.org/wiki/W._E._B._DuBois
+description: "The Souls of Black Folk is a classic work of American literature by\
+  \ W. E. B. Du Bois. It is a seminal work in the history of sociology, and a cornerstone\
+  \ of African-American literary history.\nThe book, published in 1903, contains several\
+  \ essays on race, some of which the magazine Atlantic Monthly had previously published.\
+  \ To develop this work, Du Bois drew from his own experiences as an African-American\
+  \ in the American society. Outside of its notable relevance in African-American\
+  \ history, The Souls of Black Folk also holds an important place in social science\
+  \ as one of the early works in the field of sociology.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: African American Writers
+gutenberg_issued: '1996-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '408'
+  wikidata: Q1253660
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'African Americans'
+- GITenberg
+title: The Souls of Black Folk
+url: http://www.gutenberg.org/ebooks/408
+wikipedia:
+- https://ln.wikipedia.org/wiki/Mil%C3%ADmo_ya_bik%C3%B3lo_mo%C3%ADndo
+- https://sh.wikipedia.org/wiki/The_Souls_of_Black_Folk
+- https://en.wikipedia.org/wiki/The_Souls_of_Black_Folk
+- https://pt.wikipedia.org/wiki/As_Almas_da_Gente_Negra
+- https://es.wikipedia.org/wiki/The_Souls_of_Black_Folk
