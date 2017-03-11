@@ -1,5 +1,8 @@
 _repo: The-Souls-of-Black-Folk_408
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Du Bois, W. E. B. (William Edward Burghardt)
@@ -20,6 +23,8 @@ description: "The Souls of Black Folk is a classic work of American literature b
   \ in the American society. Outside of its notable relevance in African-American\
   \ history, The Souls of Black Folk also holds an important place in social science\
   \ as one of the early works in the field of sociology.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/408#The-Souls-of-Black-Folk
 gutenberg_bookshelf: African American Writers
 gutenberg_issued: '1996-01-01'
 gutenberg_type: Text
